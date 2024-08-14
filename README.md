@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI strategies that use a framework based on Security, Reliability, and Trust.
 - 💞️ I’m looking to collaborate on AI frameworks and the latest in web app tools.
 - 📫 How to reach me michaelstockman@ucwv.edu
-- 😄 Pronouns: ...
 - ⚡ Fun fact: US Air Force veteran, hanging out with my 4 amazing dogs: Rhett, a Great Pyrenees, Lucy, an American Staffordshire Terrier, Daisy and Dixie, Labrador Retrievers. My wife Diana and I live in the mountains of "Almost Heaven" West Virginia
 
 <!---
